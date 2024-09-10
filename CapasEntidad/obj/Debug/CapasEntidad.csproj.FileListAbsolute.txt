@@ -1,0 +1,12 @@
+C:\Users\Leand\Desktop\proyectoC#\Agenda\CapasEntidad\bin\Debug\CapasEntidad.dll
+C:\Users\Leand\Desktop\proyectoC#\Agenda\CapasEntidad\bin\Debug\CapasEntidad.pdb
+C:\Users\Leand\Desktop\proyectoC#\Agenda\CapasEntidad\obj\Debug\CapasEntidad.csproj.AssemblyReference.cache
+C:\Users\Leand\Desktop\proyectoC#\Agenda\CapasEntidad\obj\Debug\CapasEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Leand\Desktop\proyectoC#\Agenda\CapasEntidad\obj\Debug\CapasEntidad.dll
+C:\Users\Leand\Desktop\proyectoC#\Agenda\CapasEntidad\obj\Debug\CapasEntidad.pdb
+C:\Users\Leand\Desktop\Programacion\proyectoC#\Agenda\CapasEntidad\bin\Debug\CapasEntidad.dll
+C:\Users\Leand\Desktop\Programacion\proyectoC#\Agenda\CapasEntidad\bin\Debug\CapasEntidad.pdb
+C:\Users\Leand\Desktop\Programacion\proyectoC#\Agenda\CapasEntidad\obj\Debug\CapasEntidad.csproj.AssemblyReference.cache
+C:\Users\Leand\Desktop\Programacion\proyectoC#\Agenda\CapasEntidad\obj\Debug\CapasEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Leand\Desktop\Programacion\proyectoC#\Agenda\CapasEntidad\obj\Debug\CapasEntidad.dll
+C:\Users\Leand\Desktop\Programacion\proyectoC#\Agenda\CapasEntidad\obj\Debug\CapasEntidad.pdb
